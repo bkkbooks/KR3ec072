@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ec072/v1
 canonical_location: https://kanripo.org/bkk/KR3ec072/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 本草和名
   identifiers:
@@ -20,4 +20,4 @@ assets:
     filename: KR3ec072_001.yaml
     hash: sha256:9dd0e9e2e0191aa4e759c6c0246acfd9cc4c3e001c05d04358aca44d8f23643e
 table_of_contents: []
-hash: sha256:a3ee0cd4c48ada6c834a965e9b30bd46996138968b43271182b1e66576fe3e6d
+hash: sha256:2258375c173ea2e1646b2021f816d4651ee0283b76ed01a7d39075b128a5060c
